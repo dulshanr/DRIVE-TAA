@@ -1,0 +1,15 @@
+opencv-python
+kornia
+tqdm==4.46.1
+tensorboard
+tensorboardX
+gym==0.17.2
+PyYAML==5.3.1
+easydict==1.9
+matplotlib
+scikit-learn
+Transplant==0.8.10
+Transplant==0.8.10
+terminaltables==3.1.0
+pynvml==8.0.4
+prefetch-generator==1.0.1
